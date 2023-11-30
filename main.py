@@ -134,4 +134,4 @@ async def on_ready():
     print(f'Logged in as {bot.user}')
 
 # Replace 'YOUR_DISCORD_BOT_TOKEN' with your bot's token
-bot.run('MTE3OTIyOTU4MTMxMjUzMjU4MQ.GiVgo3.nU9jmnBKI3Z5jm-EKzzzBMs9o15eJOQYw33z4M')
+bot.run('YOUR_KEY')
