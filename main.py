@@ -42,4 +42,4 @@ async def topwr(ctx):
     win_rate = get_win_rate('top')
     await ctx.send(f'Top Win Rate: {win_rate}')
 
-bot.run('MTE3OTIyOTU4MTMxMjUzMjU4MQ.GdRjfH.uz1QjKreEblaPvdcFZ2FYxp6ZP7NtuNGYZ7L9Q')
+bot.run('YOUR_KEY')
